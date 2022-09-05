@@ -1,2 +1,2 @@
 # Tanish
-This is my firdt repository
+This is my first repository
